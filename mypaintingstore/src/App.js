@@ -16,54 +16,55 @@ function App() {
             <div>
             </div>
             <section class="painting-listing">
-              <ul>
-                <li>
-                  <div class="painting-container">
-                    <div class="painting-image">
-                      <img src="https://picsum.photos/200" alt="" />
-                    </div>
-                    <div class="painting-info">
-                      <h2>Painting Name</h2>
-                      <p>painting description</p>
-                    </div>
-                    <div class="painting-action">
-                      <a href="">Add</a>
-                      <p class="counter"></p>
-                    </div>
-                  </div>
-                </li>
-                <li>
-                  <div class="painting-container">
-                    <div class="painting-image">
-                      <img src="https://picsum.photos/200" alt="" />
-                    </div>
-                    <div class="painting-info">
-                      <h2>Painting Name</h2>
-                      <p>painting description</p>
-                    </div>
-                    <div class="painting-action">
-                      <a href="">Add</a>
-                      <p class="counter"></p>
-                    </div>
-                  </div>
-                </li>
-                <li>
-                  <div class="painting-container">
-                    <div class="painting-image">
-                      <img src="https://picsum.photos/200" alt="" />
-                    </div>
-                    <div class="painting-info">
-                      <h2>Painting Name</h2>
-                      <p>painting description</p>
-                    </div>
-                    <div class="painting-action">
-                      <a href="">Add</a>
-                      <p class="counter"></p>
-                    </div>
-                  </div>
-                </li>
-              </ul>
-            </section>
+      <ul>
+        <li>
+          <div class="painting-container">
+            <div class="painting-image">
+              <img src="https://i.imgur.com/uVhng9d.jpg" alt="" />
+            </div>
+            <div class="painting-info">
+              <h2>Red Elma</h2>
+              <p>Burning with anger, hidden behind a smile, this illustration shows a person that is angry on the inside.</p>
+            </div>
+            <div class="painting-action">
+              <a href="">Order</a>
+              <p class="counter"></p>
+            </div>
+            </div>
+        </li>
+        <li>
+          <div class="painting-container">
+            <div class="painting-image">
+              <img src="https://i.imgur.com/pxMrzis.jpg" alt="" />
+            </div>
+            <div class="painting-info">
+              <h2>Blue Pete</h2>
+              <p>The sorrow Pete feels is palpable.  His sadness exits his pores in a blue hue.</p>
+            </div>
+            <div class="painting-action">
+              <a href="">Order</a>
+              <p class="counter"></p>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div class="painting-container">
+            <div class="painting-image">
+              <img src="https://i.imgur.com/nhLiK1Q.jpg" alt="" />
+            </div>
+            <div class="painting-info">
+              <h2>Green Bean</h2>
+              <p>Bean has turned green from all the vegetables he eats.  It's his attack on the monoculture of food in his country.</p>
+            </div>
+            <div class="painting-action">
+              <a href="">Order</a>
+              <p class="counter"></p>
+            </div>
+            </div>
+          </div>
+        </li>
+      </ul>
+      </section>
           </div>
         </div>
       </div>
